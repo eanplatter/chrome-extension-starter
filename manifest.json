@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "STARTER_KIT",
+  "version": "0.0.1",
+  "version_name": "alpha",
+  "description": "DESCRIPTION",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "20": "images/icon20.png",
+      "32": "images/icon32.png"
+    },
+    "default_title": "STARTER_KIT",
+    "default_popup": "dist/index.html"
+  },
+  "author": "Ean Platter eanplatter@gmail.com",
+  "homepage_url": "https://github.com/eanplatter/chrome-extention-starter#readme",
+  "incognito": "spanning",
+  "minimum_chrome_version": "46",
+  "permissions": [
+    "tabs"
+  ],
+  "short_name": "starter"
+}
