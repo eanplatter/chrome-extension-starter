@@ -1,7 +1,5 @@
-# 3SC Extension
-A Chrome extension for 3 Stand Code assignments and help.
-
-This project is **not ready** for end users.
+# Chrome Extension Starter
+A starter kit for chrome extensions.
 
 # Setup
 
@@ -10,6 +8,7 @@ This project is **not ready** for end users.
 1. Turn on "Developer Mode"
 1. Click "Load Unpacked extension..."
 1. Select the repo directory
+1. Run `$ npm start` to compile the code
 
 >You can also drag and drop the directory on to the extensions page
 
