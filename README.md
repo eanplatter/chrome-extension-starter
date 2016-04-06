@@ -1,5 +1,5 @@
-# Chrome Extension Starter
-A starter kit for chrome extensions.
+# React Chrome Extension Starter
+A starter kit for building chrome extensions with React
 
 # Setup
 
@@ -13,3 +13,7 @@ A starter kit for chrome extensions.
 >You can also drag and drop the directory on to the extensions page
 
 You can refer to the Chrome extension [Get Started](https://developer.chrome.com/extensions/getstarted) page for more.
+
+Once it's working, you should be able to see it in your chrome extensions:
+
+<img src='http://i1264.photobucket.com/albums/jj488/eanplatter1/Screen%20Shot%202016-04-06%20at%204.00.17%20PM_zpsrrnv1c1d.png' />
