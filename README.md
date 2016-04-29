@@ -1,5 +1,5 @@
 # React Chrome Extension Starter
-A starter kit for building chrome extensions with React
+A starter kit for building chrome extensions with React.
 
 # Setup
 
