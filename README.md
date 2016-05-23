@@ -2,7 +2,6 @@
 A starter kit for building chrome extensions with React.
 
 # Setup
-
 1. Clone
 1. Visit [chrome://extensions](chrome://extensions)
 1. Turn on "Developer Mode"
